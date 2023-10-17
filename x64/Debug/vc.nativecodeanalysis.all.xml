@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\khvit\project with OOP\lab2\</FILEPATH>
+      <FILENAME>shape.h</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Shape::xs1' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Shape::{ctor}</FUNCTION>
+    <DECORATED>??0Shape@@QEAA@XZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shape::xs1</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\khvit\project with OOP\lab2\</FILEPATH>
+      <FILENAME>ShapeEditor.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ShapeEditor::pt' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ShapeEditor::{ctor}</FUNCTION>
+    <DECORATED>??0ShapeEditor@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ShapeEditor::pt</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

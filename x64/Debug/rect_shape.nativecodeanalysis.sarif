@@ -1,0 +1,67 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32824.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/rect_shape.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "cf0aec5f633215063a25611ca0827fbef80c048d1b7a496bd063ee769828757d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/framework.h"
+          },
+          "hashes": {
+            "sha-256": "4afdded82fbf3d4822d743ea3c3167e11c9fb84591759b871761f4a27e761d77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "98488711a351764d005e8c3d3fd40aaed28396870a660c28abd81ac2a53d4b90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/rect_shape.h"
+          },
+          "hashes": {
+            "sha-256": "0411a1d2b8cce58531611cb2bd3e1651dd2e2e0436245368aa9e2a1bc6251b6d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/shape.h"
+          },
+          "hashes": {
+            "sha-256": "402fc26e66022ca73651da7b5e21f5b8e143bc67487d4c02e5d5658e451ebad4"
+          }
+        }
+      ]
+    }
+  ]
+}

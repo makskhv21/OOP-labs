@@ -1,0 +1,83 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32824.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/lab2.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8a23fbedbc06212cdc45fed2a17219092ea33f2c14fb21e08d5060a51e52f364"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/framework.h"
+          },
+          "hashes": {
+            "sha-256": "4afdded82fbf3d4822d743ea3c3167e11c9fb84591759b871761f4a27e761d77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "98488711a351764d005e8c3d3fd40aaed28396870a660c28abd81ac2a53d4b90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/lab2.h"
+          },
+          "hashes": {
+            "sha-256": "245ff9031a96ef2ffade37bd506c2cf3e602747e29b80a41cb2be9f3c9691154"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/resource.h"
+          },
+          "hashes": {
+            "sha-256": "356f711a128e234cbde2c06665d6cae2219a941eb57c11c3979d15d8ecb83cbf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/shape_editor.h"
+          },
+          "hashes": {
+            "sha-256": "59650540e73deee5454298944b430483a2147ffc092bbeedde264ef94d863a21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/editor.h"
+          },
+          "hashes": {
+            "sha-256": "bf9353506f2acca841f8738995cd3a9b98590bee72641b70bff47d642ac15f04"
+          }
+        }
+      ]
+    }
+  ]
+}

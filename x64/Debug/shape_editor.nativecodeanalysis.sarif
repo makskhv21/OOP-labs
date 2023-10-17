@@ -1,0 +1,115 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32824.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/shape_editor.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "986dca1c322df687becb6f851ce2dee8c5c9d03525d844034a675809903f7693"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/framework.h"
+          },
+          "hashes": {
+            "sha-256": "4afdded82fbf3d4822d743ea3c3167e11c9fb84591759b871761f4a27e761d77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "98488711a351764d005e8c3d3fd40aaed28396870a660c28abd81ac2a53d4b90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/shape_editor.h"
+          },
+          "hashes": {
+            "sha-256": "59650540e73deee5454298944b430483a2147ffc092bbeedde264ef94d863a21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/editor.h"
+          },
+          "hashes": {
+            "sha-256": "bf9353506f2acca841f8738995cd3a9b98590bee72641b70bff47d642ac15f04"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/shape.h"
+          },
+          "hashes": {
+            "sha-256": "402fc26e66022ca73651da7b5e21f5b8e143bc67487d4c02e5d5658e451ebad4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/shapeeditor.h"
+          },
+          "hashes": {
+            "sha-256": "0fb627f1450975599bb6dc084a68ca10826bb9cf18af0be346efb6153c1d9c48"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/point_editor.h"
+          },
+          "hashes": {
+            "sha-256": "121e10f554c664842a7d204d8fda0a0947e089ba1c3d475db037cf85e8ace988"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/line_editor.h"
+          },
+          "hashes": {
+            "sha-256": "ce3721594ce8e93ebcd0b74ad2051c5e484a30bcb6d2f2f857a31506149139b3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/rect_editor.h"
+          },
+          "hashes": {
+            "sha-256": "9e78f4ff4922c2ab475ec85632749b88122d4b52257090d52cb431e7e51ef307"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/khvit/project with oop/lab2/ellipse_editor.h"
+          },
+          "hashes": {
+            "sha-256": "a1ab74be775d72afa4e99df722e5b278765c73e1be56d7c2396c2c5dcb3b1302"
+          }
+        }
+      ]
+    }
+  ]
+}
