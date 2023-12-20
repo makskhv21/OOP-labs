@@ -10,4 +10,4 @@ My labs for object-oriented programming in KPI :rocket:
 - [Laba3](https://github.com/makskhv21/OOP-labs/tree/main/lab3)
 - [Laba4](https://github.com/makskhv21/OOP-labs/tree/main/lab4)
 - [Laba5](https://github.com/makskhv21/OOP-labs/tree/main/lab5)
-  
+- [Laba6](https://github.com/makskhv21/OOP-labs/tree/main/lab6)  
