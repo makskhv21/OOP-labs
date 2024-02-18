@@ -1,0 +1,27 @@
+﻿  files.cpp
+  module1.cpp
+C:\Users\khvit\project with OOP\rgr\module1.cpp(24,13): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  module2.cpp
+C:\Users\khvit\project with OOP\rgr\module2.cpp(22,13): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  module3.cpp
+C:\Users\khvit\project with OOP\rgr\module3.cpp(27,13): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  rgr.cpp
+  scrollbar.cpp
+  toolbar.cpp
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(138,36): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\Users\khvit\project with OOP\rgr\toolbar.cpp(108,12): warning C4101: 'pText': unreferenced local variable
+  viewer.cpp
+C:\Users\khvit\project with OOP\rgr\viewer.cpp(68,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\khvit\project with OOP\rgr\viewer.cpp(68,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\khvit\project with OOP\rgr\viewer.cpp(220,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\khvit\project with OOP\rgr\viewer.cpp(224,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\khvit\project with OOP\rgr\viewer.cpp(225,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\khvit\project with OOP\rgr\viewer.cpp(226,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  rgr.vcxproj -> C:\Users\khvit\project with OOP\rgr\x64\Debug\rgr.exe
