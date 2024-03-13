@@ -3,7 +3,7 @@
 My labs for object-oriented programming in KPI :rocket:
 #
 
-## Labs list
+## Labs list 
 
 - [Laba1](https://github.com/makskhv21/OOP-labs/tree/main/Lab1)
 - [Laba2](https://github.com/makskhv21/OOP-labs/tree/main/Lab2)
